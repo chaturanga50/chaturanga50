@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### About Me 😄
-
 #### My name is Chathuranga Abeyrathna. I'm DevOps/SRE! 🤖
 - 🔭 With more than 10 years of experience in SysAdmin and DevOps, I'm all about the DevOps culture and Open Source technologies. Automation is my passion, and I'm constantly learning to improve.
 - 📚 I'm deepening my skills in K8S, Backstage etc.
