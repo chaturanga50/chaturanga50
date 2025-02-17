@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaturanga50)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chaturanga50)
 
-### 📊 GitHub Stats
+### 📊 Stats
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=chaturanga50&theme=onedark)](https://github.com/chaturanga50)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaturanga50&show_icons=true&theme=radical)](https://github.com/chaturanga50)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaturanga50&layout=compact&theme=radical)](https://github.com/chaturanga50)
