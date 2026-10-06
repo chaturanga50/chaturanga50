@@ -14,7 +14,7 @@
   <a href="https://twitter.com/chaturanga50"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://github.com/chaturanga50"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Colombo%2C%20Sri%20Lanka-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=chaturanga50&style=for-the-badge&color=0369a1&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fchaturanga50&label=PROFILE%20VIEWS&labelColor=%230f172a&countColor=%230369a1&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
@@ -119,7 +119,7 @@ I run a **DevOps-as-a-Service** practice helping teams build, operate and scale 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chaturanga50&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chaturanga50&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaturanga50&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
 </p>
 
@@ -128,7 +128,11 @@ I run a **DevOps-as-a-Service** practice helping teams build, operate and scale 
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chaturanga50&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaturanga50/chaturanga50/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaturanga50/chaturanga50/output/github-contribution-grid-snake.svg"/>
+    <img width="100%" src="https://raw.githubusercontent.com/chaturanga50/chaturanga50/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+  </picture>
 </p>
 
 ---
